@@ -26,9 +26,13 @@ function test() {
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
+
+Early prototype experiment with the code
+
+https://vimeo.com/74093903
+
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-Early prototype experiment with the code
-https://vimeo.com/74093903
+

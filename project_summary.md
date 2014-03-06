@@ -1,12 +1,12 @@
 # Project Title
-Insert the name of your project
+Bubble Connection
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Weidong, Yang (Kinetech Arts, http://kine-tech.org), github.com/wdyang
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The city is filled with people, and yet we rarely look at strangers. With Bubble Connection, we will install motion sensitive displays in several cities. The displays normally looks like a mirror, but when a person walks by, his movement opens up a bubble, revealing somebody in another city, who happens to be in front of another display. The installation encourages people to look into eyes of total stranger from totally different culture, sensing that we are all connected no matter how far apart and how different our cultures are.
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -30,4 +30,5 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+Early prototype experiment with the code
+https://vimeo.com/74093903

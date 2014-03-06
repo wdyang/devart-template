@@ -1,11 +1,12 @@
 # Project Title
-Bubble Connection
+Ink Connectivity
 
 ## Authors
 - Weidong, Yang (Kinetech Arts, http://kine-tech.org), github.com/wdyang
 
 ## Description
-The city is filled with people, and yet we rarely look at strangers. With Bubble Connection, we will install motion sensitive displays in several cities. The displays normally looks like a mirror, but when a person walks by, his movement opens up a bubble, revealing somebody in another city, who happens to be in front of another display. The installation encourages people to look into eyes of total stranger from totally different culture, sensing that we are all connected no matter how far apart and how different our cultures are.
+What if we connect through a surrogate of ink spreading in water?
+This project is both a distributed interactive installation and a interactive remote performance system. In it's simplest set up, two cameras and two monitors are setup in two locations, a person's movement will generate ink movement both local and remote, the person in the other end can respond, which will also create ink movement in both locations.
 
 
 ## Link to Prototype
@@ -27,9 +28,9 @@ function test() {
 
 ## Images & Videos
 
-Early prototype experiment with the code
+Early prototype experiment with the code. Currently using recorded video and implemented in Openframeworks with ofxFluid. Planning on moving to webGL and using socket.io for realtime remote interactivity.
 
-https://vimeo.com/74093903
+https://vimeo.com/88290757
 
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
